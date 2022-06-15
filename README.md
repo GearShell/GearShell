@@ -14,6 +14,9 @@
   <a href="https://www.instagram.com/gearshell/">
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a href=#>
+    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=GearShell&style=flat-square&color=blue" alt=""/>
