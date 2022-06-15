@@ -28,9 +28,9 @@
 I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a ReactJS Developer and contributing to frontend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I am a Guy with Linux on his PC.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks, Hackerrank, LeetCode and read tech articles.
+- :zap: In my free time, I solve problems on GeeksforGeeks, HackerRank, LeetCode and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RuchirGupta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruchir-gupta-93b010186/)
 - ---
